@@ -20,14 +20,7 @@ PCA_ALL-RandomForest.ipynb
 
 ## Model testing files
 
-SVM-modelTesting.ipynb
-
 KNeighbors-modelTesting.ipynb
-
-MLP_Regression_modelTesting.ipynb
-
-## Turn Regression problem into the classification test
-TurnReg_Cls-XGBOOST.ipynb
 
 ## Benchmark model
 mulitpleRegression-BenchMarkModel.ipynb
